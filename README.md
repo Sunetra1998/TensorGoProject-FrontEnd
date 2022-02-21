@@ -1,5 +1,4 @@
-### React JS CRUD Project with API Call
-#### https://youtu.be/5PfvoAj-SMk
+### React JS Assignment by TensorGo
 
 ### To run this Project follow below steps , it will install alll dependencies required.
 ```bash
